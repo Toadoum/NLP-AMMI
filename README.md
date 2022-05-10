@@ -1,1 +1,1 @@
-# NLP_Week1_-LAB1
+This repository is for assignment about NLP course
